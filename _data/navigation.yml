@@ -5,7 +5,7 @@ main:
    - title: "About"
      url: /about/
    - title: "Algae"
-     url: /algae/
+     url: /algae/index/
    - title: "Short Fiction"
      url: /shortfic/
    - title: "Posts"
