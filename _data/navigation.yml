@@ -7,9 +7,9 @@ main:
    - title: "Algae"
      url: /algae/index/
    - title: "Short Fiction"
-     url: /shortfic/
+     url: /shortfic/index/
    - title: "Posts"
-     url: /posts/
+     url: /posts/index/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
