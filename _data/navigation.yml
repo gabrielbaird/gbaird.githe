@@ -14,14 +14,3 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-shortfic:
-  - title: "Didymo"
-    children:
-#      - title: "Machine Learning on AWS"
-#        url: /portfolio/coming/
-      - title: "Anomaly Detection in Social Networks"
-        url: /portfolio/social-networks/
-      - title: "NetComp: Python Network Comparison"
-        url: /portfolio/netcomp/
-      - title: "Automatic Genre Classification"
-        url: /portfolio/genre_cls/
