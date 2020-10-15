@@ -1,7 +1,7 @@
 ---
 title: " "
 header:
-permalink: /algae/
+permalink: /algae/index/
 ---
 
 # BOO
