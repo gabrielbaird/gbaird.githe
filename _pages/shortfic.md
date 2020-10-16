@@ -1,7 +1,7 @@
 ---
-layout: collection
+layout: posts
 permalink: /shortfic/
-collection: shortfic
+#collection: shortfic
 entries_layout: list
 show_exerpts: true
 title: Short Fiction
@@ -11,5 +11,5 @@ classes: wide
 ---
 
 
-{% for post in site.shortfic %} {% include single.html %} {% endfor %}
-# Here there be dragon
+#{% for post in site.shortfic %} {% include single.html %} {% endfor %}
+# Here thereew be dragon
