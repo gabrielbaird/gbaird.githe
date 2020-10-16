@@ -9,5 +9,5 @@ author_profile: true
 classes: wide
 ---
 
-
+{% for post in site.shortfic %} {% include single.html %} {% endfor %}
 # Here there be dragons3
