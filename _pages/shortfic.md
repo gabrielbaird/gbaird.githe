@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: tags
 permalink: /shortfic/
 #collection: shortfic
 entries_layout: list
@@ -11,4 +11,4 @@ classes: wide
 ---
 
 
-# Here dthereew be dragon
+# Here
