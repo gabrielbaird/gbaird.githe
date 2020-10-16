@@ -11,5 +11,4 @@ classes: wide
 ---
 
 
-#{% for post in site.shortfic %} {% include single.html %} {% endfor %}
-# Here thereew be dragon
+# Here dthereew be dragon
