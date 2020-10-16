@@ -2,12 +2,14 @@
 layout: collection
 permalink: /shortfic/
 collection: shortfic
-entries_layout: grid
+entries_layout: list
+show_exerpts: true
 title: Short Fiction
 author_profile: true
 
 classes: wide
 ---
 
+
 {% for post in site.shortfic %} {% include single.html %} {% endfor %}
-# Here there be dragons3
+# Here there be dragon
